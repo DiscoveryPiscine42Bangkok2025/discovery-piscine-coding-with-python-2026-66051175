@@ -2,15 +2,3 @@ n = int(input("Enter a number\n"))
 for i in range(10):
     print(f"{i} x {n} = {i*n}")
 
-# Enter a number
-# 8
-# 0 x 8 = 0
-# 1 x 8 = 8
-# 2 x 8 = 16
-# 3 x 8 = 24
-# 4 x 8 = 32
-# 5 x 8 = 40
-# 6 x 8 = 48
-# 7 x 8 = 56
-# 8 x 8 = 64
-# 9 x 8 = 72
